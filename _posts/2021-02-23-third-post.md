@@ -1,11 +1,233 @@
 ---
-title: "Welcome 3"
-date: 2021-02-21 08:26:28 -0400
+title: "Game Resources"
+date: 2021-04-27 08:26:28 -0400
 categories: jekyll update
 ---
-222
-한글
-2222
+Resources
+
+Links:
+
+-Guide to Digital Colours: https://hg2dc.com
+- Ryan Brucks (Epic Games Principal Technical Artist): https://shaderbits.com
+- Elhoussine Mehnik (Ai Programmer Ubisoft): https://ue4resources.com
+- Tom Looman( Former Engineer Epic Games): https://www.tomlooman.com
+- Fundamentals of Color Theory: https://en.99designs.ch/blog/t…derstanding-color-theory/
+- Sjoerd De Jong (Evangelist Epic Games): http://www.hourences.com/
+- CG from Scratch: https://www.scratchapixel.com/index.php?redirect
+- Cheap Water Caucastic: https://medium.com/hri-tech/ch…stics-in-ue4-ee1d3ac0cae1
+- Gerstner Waves: https://80.lv/articles/tutoria…ader-with-gerstner-waves/
+- Laws of Ux: https://lawsofux.com/
+- Glossary of Computer Graphics :https://en.wikipedia.org/wiki/Glossary_of_computer_graphics
+- Game Developer Conference (Youtube) : https://youtube.com/c/Gdconf
+- tips thread: https://twitter.com/i/events/1064095060319498240?s=21
+- old Interface back: https://twitter.com/houssineme…/1305193538817323011?s=21
+- game ui reference: https://www.gameuidatabase.com/
+- random tip: https://twitter.com/highlyspam…/1328861144946143233?s=21
+- fake fluid: https://twitter.com/shaderbits…/1268968994247249923?s=21
+- texel density für UE4: https://twitter.com/matt_cane_…/1354467224946409475?s=21
+- C++ UE4 Guide: https://jip.dev/notes/unreal-engine/
+- how ue4 renders a frame: https://interplayoflight.wordp…w-unreal-renders-a-frame/
+- Sebastien Hillaire (Engineer Epic Games) : https://sebh.github.io/
+- Brian Karis (Graphics Engineer Epic Games): http://graphicrants.blogspot.com/
+- Sebastien Lagarde (Unity Studio Head): https://seblagarde.wordpress.com/
+- Polycount Wiki http://wiki.polycount.com/wiki/Polycount
+- Car Blueprints: https://www.the-blueprints.com/
+- game cities: https://www.game-cities.com/
+- creating video game cities: https://medium.com/@Konstantin…-game-cities-4cacb4cb83db
+-https://www.gamasutra.com/blog…n_of_Videogame_Cities.php
+or https://www.gamasutra.com/
+-random blog: https://stevelois.com/
+- car design: https://www.carbodydesign.com/…odeling-cars-in-polygons/
+or  https://www.carbodydesign.com/
+-animation guide 2d: http://lukehughesdesign.blogspot.com/
+- IES texture Philips: https://www.usa.lighting.phili…ture/photometric-data#led
+-All about Texel Density: https://www.artstation.com/artwork/qbOqP
+-developer textures: http://scmapdb.com/wad:developer-textures
+- html color codes: https://htmlcolorcodes.com/color-picker/
+- Michel Orzelek (Blog): http://www.michalorzelek.com/blog/
+- custom map generator: https://mapchart.net/
+- vectorizer:https://online-converting.com/vectorize/
+- cc fonts: https://fonts.google.com/
+- mesh labs (optimizer): https://www.meshlab.net/
+- sculpt gl (webapp): https://stephaneginier.com/sculptgl/
+- raw processing tool: https://www.rawtherapee.com/
+- 80lv article : https://80.lv/articles/alireza-khajehali-mixing-ue4-with-megascans/
+- decal to single actor: https://forums.unrealengine.com/t/can-we-not-apply-a-decal-to-a-single-actor/117583
+- performance guidlines for artists: https://docs.unrealengine.com/en-US/TestingAndOptimization/PerformanceAndProfiling/Guidelines/index.html
+- graphics stanford university: https://graphics.stanford.edu/
+- graphics pixar https://graphics.pixar.com/library/
+- gamedev : https://gamedev.net/
+- Pure Data Lecture : https://www.youtube.com/watch?v=2_P7MVQnmZk
+- desert modelling: https://robgreenart.wordpress.com/2016/04/26/developments-modelling-desert-ground-plane/
+- desert heighmap: https://earthobservatory.nasa.gov/images/50140/elevation-map-of-badain-jaran-desert
+- blog about creating desert: https://www.florisgroen.com/blog/
+- simplygon optimization tool: https://www.simplygon.com/
+- udim workflow : https://learn.foundry.com/modo/901/content/help/pages/uving/udim_workflow.html
+-raymarching: https://medium.com/@ArmstrongCS/raymarching-1-the-basics-d6f3e70fb430
+- cc search : https://search.creativecommons.org/
+- cc museum: https://www.metmuseum.org/blogs/digital-underground/2017/open-access-at-the-met
+- city creation: https://www.theguardian.com/cities/2015/jun/30/how-build-city-step-by-step-diy-guide
+- how-to design town: http://www.fantasticmaps.com/2013/03/how-to-design-a-town/
+- worldbuilding resources: http://kennethjorgensen.com/worldbuilding/resources
+-worldbuilding survey: https://onestopforwriters.com/about_wbt
+- on naming people/spaces : https://drive.google.com/file/d/1pu-2xp7V7oYoElESMtWfv4LP85yZCXyZ/view
+-list of dimensions: https://www.dimensions.com/
+- normal map guide : http://www.3dkingdoms.com/tutorial.htm 
+- gamedev resources: https://github.com/Kavex/GameDev-Resources
+-design resources: https://github.com/gztchan/awesome-design
+-design tools: https://github.com/gztchan/awesome-design
+- textures: https://freepbr.com/
+- stockphotos: https://pixabay.com/
+- textures: https://www.tonytextures.de/kostenlose-textur-foto-sammlung-architekturvisualisierung/
+- textures: http://texturer.com/
+- textures: https://opengameart.org/textures/all
+- textures: https://www.goodtextures.com/
+-3d glossary: http://www.ericchadwick.com/portfolio/glossary/
+- polycount article: https://polycount.com/discussion/155894/decal-technique-from-star-citizen
+- vertex normal: http://wiki.polycount.com/wiki/VertexNormal
+- water of uncharted: https://www.gdcvault.com/play/1015309/Water-Technology-of
+- normal mapping: http://ogldev.atspace.co.uk/www/tutorial26/tutorial26.html
+- linear or gamma color: https://docs.unity3d.com/Manual/LinearRendering-LinearOrGammaWorkflow.html
+- color space : https://docs.unity3d.com/Manual/LinearLighting.html
+- heightmap: https://docs.unity3d.com/Manual/StandardShaderMaterialParameterHeightMap.html
+- normal map: https://docs.unity3d.com/Manual/StandardShaderMaterialParameterNormalMap.html
+- normal mapping: https://learnopengl.com/Advanced-Lighting/Normal-Mapping
+-creating cars for need for speed: http://www.speedhunters.com/2011/11/behind_the_scenes_creating_cars_need_for_speed_run/
+-normal mapping: https://polycount.com/discussion/81154/understanding-averaged-normals-and-ray-projection-who-put-waviness-in-my-normal-map
+-Optimization http://www.ericchadwick.com/examples/provost/byf1.html
+- about polygons: http://wiki.polycount.com/wiki/Polygon_Count
+- normal map: http://wiki.polycount.com/wiki/Normal_Map_Technical_Details#Tangent-Space_vs._Object-Space
+- texturecoordinates: http://wiki.polycount.com/wiki/Texture_Coordinates
+- vertexcounts/normalmap : https://polycount.com/discussion/107196/youre-making-me-hard-making-sense-of-hard-edges-uvs-normal-maps-and-vertex-counts
+- normal map: http://wiki.polycount.com/wiki/Normal_Map_Modeling
+- height map: https://cgcookie.com/lesson/height-maps-vs-normal-maps
+- forum: https://pixelation.org/index.php?action=profile;u=6531;area=showposts;start=20
+- deviantart: https://www.deviantart.com/
+- artstation: https://www.artstation.com/
+- materialx: https://www.materialx.org/
+-3dtotal : https://3dtotal.com/
+- textures: https://cc0textures.com/
+- blogposts: https://halisavakis.com/technically-art-issue-90-19-03-2021/
+- coiled shader: https://medium.com/xrlo-extended-reality-lowdown/how-to-create-a-coiled-cable-shader-in-ue4-8bb47777d8ab
+- 3d glossary: http://3drender.com/glossary/index.htm
+- modelling guide: https://80.lv/articles/making-a-honda-bike-with-maya-ue4/
+- fake lightning: https://www.criticalfailure-studio.com/faking-2d-lights-on-unreal/
+- mesh decals: https://docs.unrealengine.com/en-US/WorkingWithContent/MeshDecals/index.html
+- model a city: https://www.creativebloq.com/features/17-top-tips-for-modelling-a-complex-3d-city-scene
+- world coordinates: http://www.aclockworkberry.com/world-coordinate-systems-in-3ds-max-unity-and-unreal-engine/
+- ue4 community wiki: https://www.ue4community.wiki/
+- blog selfshadow : https://blog.selfshadow.com/
+- uncharted lighning and shading: http://advances.realtimerendering.com/s2010/Hable-Uncharted2%28SIGGRAPH%202010%20Advanced%20RealTime%20Rendering%20Course%29.pdf
+- flipbook tutorial: https://jesshiderue4.wordpress.com/materials/flipbook-node-creating-an-animated-texture/
+- textur packer: https://www.codeandweb.com/texturepacker
+- uv-tricks : http://www.tharlevfx.com/unreal-4-uv-tricks
+- noise generator: http://www.kitfox.com/projects/perlinNoiseMaker/index.html
+- guide for weapon modelling: https://80.lv/articles/studying-weapon-art-reference-subd-modeling-texturing/
+- anotomy for sculpters: https://anatomy4sculptors.com/blogs/articles
+- clothing of uncharted: https://www.artstation.com/artwork/6kEmV
+- why unreal is inviteable : http://alextardif.com/Unreal.html
+- creating character: https://80.lv/articles/creating-a-realistic-captain-in-zbrush-marvelous-designer/
+- lightning breakdown: https://twitter.com/peter_rrrrr/status/1383867721880723469?s=21
+- alternatives for adobe: https://twitter.com/zartheitalian/status/1381730890582200323?s=21
+- local volumetric fog: https://twitter.com/highlyspammable/status/1367682880382541826?s=21
+-free software alternatives: https://openvisualfx.com/software/
+- color ramps : https://gumroad.com/l/COLORRAMP
+- nasa model/textures : https://nasa3d.arc.nasa.gov/
+- weta digital podcast : https://www.wetafx.co.nz/podcasts/
+- graphity decals : https://drive.google.com/drive/folders/1gLHLAKJYp22yjoSBMPDeLPa5QY_gEvgf
+- Ior List : https://pixelandpoly.com/ior.html
+- website about industrial parts : https://www.mcmaster.com/
+- feather creator for blender: https://gumroad.com/l/JDLkA
+- 3d models : https://3d.si.edu/
+-geomap of the moon : https://astrogeology.usgs.gov/search/map/Moon/Geology/Unified_Geologic_Map_of_the_Moon_GIS
+- turbosquid 3models : https://www.turbosquid.com/
+- sketchfab 3dmodels : https://sketchfab.com/feed
+- textures : https://texture.ninja/
+- adobe color wheel : https://color.adobe.com/de/create/color-wheel
+- sheepit blender renderfarm : https://www.sheepit-renderfarm.com/
+- 3d model search machine : https://3dmdb.com/
+- 3d models : http://www.rickdellis.com/downloads
+- 3d topology guide : https://topologyguides.com/
+- IES files : https://gumroad.com/l/FXsj
+- IES files : https://renderman.pixar.com/ies-profiles
+- scanned objects : https://www.myminifactory.com/scantheworld/
+- textures : https://www.cgbookcase.com/textures
+- 3d models : https://3dmodelhaven.com/models/?c=all
+- hdri : https://hdrihaven.com/
+- textures: https://texturehaven.com/
+- surface imperfections : https://www.artstation.com/marketplace/p/3yAy/free-surface-imperfections-pack
+- doc about pbr : https://docs.google.com/document/u/0/d/1Fb9_KgCo0noxROKN4iT8ntTbx913e-t4Wc2nMRWPzNk/mobilebasic
+- ue4 ressources : https://unrealxeditor.wordpress.com/my-tutorials/unreal-engine-4/
+- ui performance ue4 : https://benui.ca/unreal/ui-performance/
+- fake fluid unity : https://twitter.com/minionsart/status/986374665399685121?s=21
+- ai animation : https://twitter.com/blacksquirrel__/status/1270552963388334082?s=21
+- game options explained : https://www.pcgamer.com/pc-graphics-options-explained/
+- carnegie mellon mocap : http://mocap.cs.cmu.edu/
+- car design : https://www.carbodydesign.com/article/59531-modeling-cars-in-polygons/
+- animation design : http://lukehughesdesign.blogspot.com/p/drawing-for-animation-2-knb122_23.html
+- fake caucastic : https://www.shadertoy.com/view/wlc3zr
+- financal workbook : https://docs.google.com/spreadsheets/d/1bov4i-E2BjOWY5F-a0GCSf2NHUVpoCBqLK5ypJ3wAWM/htmlview
+-3d art in games : https://www.notion.so/Reference-for-3D-Art-In-Games-2020-00efa37d7c964871af6ca8f460a9e8f9
+-https://www.polyphony.co.jp/publications/sa2018/
+-https://gpuopen.com/learn/porting-detroit-1/
+-http://www.jcgt.org/published/0010/01/01/
+https://twitter.com/blacksquir…/1270552963388334082?s=21
+-https://twitter.com/thevtran/status/1349417360843812870?s=21
+-http://casual-effects.blogspot…aphics-pronunciation.html
+-https://www.activision.com/cdn…f_Duty_Modern_Warfare.pdf
+-https://diglib.eg.org/bitstrea…f14050/v39i4pp013-022.pdf
+-https://666uille.files.wordpre…gytools-onlinevideos1.pdf
+-https://www.designingbuildings.co.uk/wiki/Home
+
+-Books:
+- The Art of Game Design von Jesse Schell
+- Game Mechanics: Advanced Game Design von Ernest Adams, Joris Dormans
+- An Architectural Approach to Level Design von Christopher W. Totten
+- Level Design: Concept Theory Pratice von Rudolf Kremers
+- Better Game Character by Design: A psychological approach von Katharine Isbister
+- Virtual Character Desing for Games and Interactive Media von Robin J.S. Sloan
+- Creative Character Design von Bryan Tillman
+- The How‘s and Why‘s of Level Design von Sjoerd De Jong
+- Designing Sound von Andy Farnell
+- Game Architecture and Design von Andrew Rollings und Dave Morris
+- 3d automotive modeling: An Insider's Guide to 3D Car Modeling and Design for Games and Film von Andrew Gahan
+- Practical Ui von Diana MacDonald
+- Ux Fundamentals von Edward Stull
+- Game Design Workshop von Tracy Fullerton
+- Game Feel von Steve Swink
+- the ultimate guide to videogame writing and design von Flint dill
+- the animators survival kit von richard williams
+-Stop Staring Facial Modelling and Animation done right von jason osipa
+- ultimate game design von tom meigs
+- Digital Animation bible von george avgerakis
+- Level of Detail for 3d Graphics; David Luebke et al
+- The illusion of life ; Frank Thomas, Ollie Johnston
+-Man, Play and Games ; Roger Caillois
+- [digital] modeling ; william vaughan
+- [digital] rendering; jeremy birn
+- [digital] texturing&painting ; owen demers
+- 3d art essentials ; ami chopine
+- the dark side of game textures ; david franson
+- handbook of lightning design; rüdiger ganslandt, harald hofman
+- the anatomy of type : stephen coles
+- making noise ; han wei shen
+- blender secrets 1-3; jan van den hemel
+-Anatomy for sculpters ; uldis zarins
+- blender for dummies ; jason van gumster
+- blender 3d incredible machines; Christopher Kuhn
+- design by nature ; maggie macnar
+- the fundamentals of interior design ; simon dodsworth
+- learning blender ; oliver villar
+- complexity and contradiction in architecture; robert venturi
+- delirious new york , rem koolhaas
+- emotional design ; donald a norman
+- speed read car design ; tom lewin
+- game sound ; karen collins 
+- sound design and science fiction ; william whittington
+- let run your neurons ; david s. ebert , f. kenton musgrave et al
+- blender master class ; ben simonds
+- color and light ; james gurney
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
