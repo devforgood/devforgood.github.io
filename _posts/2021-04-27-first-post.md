@@ -19,10 +19,11 @@ Property names should be nouns, noun phrases or adjectives.
 Boolean properties should be affirmative phrases. You can prefix a Boolean property with “Is”, “Has”, “Can”. Ex: IsActive, CanJump.
 If multiple properties relate to the same item, use the item name as a prefix and add the property type, or role. Ex:
 
+```
 Color _gameTitleColor;
 String _gameTitleString;
 TextMeshProUGUI _gameTitleText;
-
+```
 
 Avoid using numbers for names, if they are not part of an inherent list. Ex: animator1, animator2. Instead explain the difference between both properties -eg playerAnimator, enemyAnimator 
 Capitalization
@@ -50,15 +51,17 @@ Formatting
 Use 1 Tab per column to indent code, not spaces.
 Curly brackets: if they are empty, they should be on the same line. If not, they should be on their own line and aligned in the same column. Ex:
 
+```
 public class EmptyBraces(){ };
 public class NonEmptyBraces
 {
 //...
 }
-
+```
 
 Logical units which are contained within each other need to be indented to indicate the hierarchical relationship. Ex:
 
+```
 public void FunctionName()
 {
     if(somethingHappened)
@@ -66,17 +69,18 @@ public void FunctionName()
         //...
     }
 }
-
+```
 
 Comments
 Important: Don’t be redundant. If you think anyone could understand what the code does by just looking at it, don’t add a comment. Instead, name your variables, classes and methods so that they explain themselves!
 Use inline comments to provide additional context over individual lines of code.
 Write a summary above every class that describes the class' purpose. Optionally, include details about how the class works, especially if it's not particularly intuitive or readable. Ex:
 
+```
 /// <summary>
 /// This class manages save data
 /// </summary>
-
+```
 
 Tip: IDEs usually auto-generate a summary when typing the “/” symbol 3 times.
 
@@ -84,9 +88,10 @@ For more information on summaries, check the official Microsoft specification.
 
 Write a comment before a method, to explain what it does, in case the name is not self-explanatory or you want to add important details. You can also use an inline summary. Ex:
 
+```
 /// <summary> This function does this... </summary>
 public float CalculateBoundingBox(){ }
-
+```
   
 Use a comment beginning with //TODO: to indicate something that needs to be picked up later, so you don’t forget about it. Note: This is not an invite to push broken functionality.
 Do not use #region dividers, or “line separator” comments like //--------.
@@ -126,7 +131,7 @@ Folders
 ⮕ When you make a new system, you can put an example scene within /Scenes/Examples. Try to gather the related test assets here (Prefabs, Timelines, ScriptableObjects) and don’t just place them in other parts of the project.
 
 Example:
-
+```
 📁 Art
 ⸺📁 Characters
 ⸺⸺📁 PigChef
@@ -155,7 +160,7 @@ Example:
 ⸺📁 SceneManagementSystem
 📁 UI ⬅
 ⸺📁 Materials
-
+```
 
 
 
